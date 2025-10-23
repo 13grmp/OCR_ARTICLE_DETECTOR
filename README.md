@@ -42,6 +42,6 @@ python main.py
 Digite o caminho completo do arquivo PDF ou imagem quando solicitado:
 ```bash
 📁 Informe o caminho completo do arquivo PDF ou imagem:
-👉 Caminho: C:\Users\Felipe\Desktop\documento.pdf
+👉 Caminho: (caminho documento).
 ````
 
