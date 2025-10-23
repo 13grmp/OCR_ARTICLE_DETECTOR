@@ -30,3 +30,18 @@ No terminal (VS Code):
 ```bash
 pip install pytesseract pdf2image spacy nltk openai pillow PyPDF2
 python -m spacy download pt_core_news_sm
+
+````
+
+### ▶️ 3. Execução
+Salve o arquivo Python como main.py e rode no terminal:
+
+```bash
+python main.py
+````
+Digite o caminho completo do arquivo PDF ou imagem quando solicitado:
+```bash
+📁 Informe o caminho completo do arquivo PDF ou imagem:
+👉 Caminho: C:\Users\Felipe\Desktop\documento.pdf
+````
+
